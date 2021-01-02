@@ -1,2 +1,2 @@
 This is our first line.
-This is branch2.
+This is main.
